@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ateeq</h1>
 <h3 align="center">A passionate Java Full Stack Developer with MYSQL and Testing from Chennai India</h3>
-<img align ="left" width="400" height="600" alt="image" src="[https://github.com/user-attachments/assets/fe061a81-98e5-4203-8bfd-ec1cabee08e3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3lDs8m6JYqA69Sj9Kkj3m8&ust=1753357670715000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiOu7v00o4DFQAAAAAdAAAAABAT)" />
+<img align ="right" width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/19f8e7f1-380b-4b4f-aea8-09830d035542" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadateeq&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadateeq" /> </p>
 
