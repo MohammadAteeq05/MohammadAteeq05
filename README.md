@@ -13,9 +13,6 @@
 
 - 📫 How to reach me **skateeq44@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Windows%2011/Desktop/Clg%20works/Mohammad_Ateeq_cv.pdf](file:///C:/Users/Windows%2011/Desktop/Clg%20works/Mohammad_Ateeq_cv.pdf)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
